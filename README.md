@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌟 About Me:
 💻 Passionate software developer interested in building scalable web applications.<br>🌱 Currently learning and improving skills in MERN Stack Web Development, Artificial Intelligence, Spring Boot.<br>🧠 Enjoy solving real-world problems and building logic-driven projects.<br>⚙️ Interested in Full Stack and Artificial Intelligence.
 
 
