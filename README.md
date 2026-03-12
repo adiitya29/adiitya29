@@ -1,8 +1,11 @@
-# 🌟 About Me:
-💻 Passionate software developer interested in building scalable web applications.<br>🌱 Currently learning and improving skills in MERN Stack Web Development, Artificial Intelligence, Spring Boot.<br>🧠 Enjoy solving real-world problems and building logic-driven projects.<br>⚙️ Interested in Full Stack and Artificial Intelligence.
 <div align="center">
 <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJnZXo3MHpqazdhNzBucGVwOHJ3N2JpZXNsdmZsZjNqdXQ3ODljciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
 </div>
+
+###
+
+# 🌟 About Me:
+💻 Passionate software developer interested in building scalable web applications.<br>🌱 Currently learning and improving skills in MERN Stack Web Development, Artificial Intelligence, Spring Boot.<br>🧠 Enjoy solving real-world problems and building logic-driven projects.<br>⚙️ Interested in Full Stack and Artificial Intelligence.
 
 ### 
 
@@ -31,20 +34,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=adiitya29.adiitya29&"  />
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### 
 
-<h1 align="center">Hey, there...</h1>
-
-### 
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-### 
-
-<p align="left">I'm from Pune<br><br>- 🔭 I’m Final Year Computer Science Engineering Student<br>- 📚 I'm currently learning NextJS, AWS and Tensorflow.<br>- ⚡ In my free time, I enjoy building coding projects</p>
-
-### 
 
 <h3 align="left">🛠 Language and tools</h3>
 
