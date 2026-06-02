@@ -5,7 +5,7 @@
 ###
 
 # 🌟 About Me:
-💻 Passionate software developer interested in building scalable web applications.<br>🌱 Currently learning and improving skills in Full Stack Development, Artificial Intelligence, Spring Boot.<br>🧠 Enjoy solving real-world problems and building logic-driven projects.<br>⚙️ Interested in Full Stack and Artificial Intelligence.
+💻 Passionate software developer interested in building scalable web applications.<br>🌱 Currently learning and improving skills in Full Stack Development, Artificial Intelligence.<br>🧠 Enjoy solving real-world problems and building logic-driven projects.<br>⚙️ Interested in Full Stack and Artificial Intelligence.
 
 ### 
 
