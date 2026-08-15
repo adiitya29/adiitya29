@@ -30,7 +30,7 @@ I'm a Computer Science Engineering student and aspiring **Software Developer** p
 - 🌱 Currently learning **Spring Boot & Next.js**
 - 💻 Interested in **Backend Development, Full Stack Development & System Design**
 - 🧠 Practicing **Data Structures & Algorithms in Java**
-- 🚀 Building projects using **Java, Spring Boot, React, Node.js & MongoDB**
+- 🚀 Building projects using **Spring Boot, Django, React, Node.js & MongoDB**
 - 💬 Ask me about **Java Backend, Spring Boot, MERN Stack & Full Stack Development**
 - 📫 Reach me at **adityasy29803@gmail.com**
 
@@ -77,7 +77,7 @@ I'm a Computer Science Engineering student and aspiring **Software Developer** p
 A full-stack URL shortening application focused on creating short links and tracking their analytics.
 
 **Tech Stack:**  
-`Java` `Spring Boot` `React` `MongoDB` `REST API`
+`Core Java` `Spring Boot` `Redis` `PostgreSQL` `REST API` `Spring Data JPA` `Hibernate` `Bucket4j` `MaxMind GeoIP` `Docker` `JUnit 5` `Mockito`
 
 🔗 **[View Project →](https://github.com/adiitya29/URL-Shortener-with-Analytics)**
 
@@ -86,12 +86,23 @@ A full-stack URL shortening application focused on creating short links and trac
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiitya29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiitya29&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=adiitya29&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Aditya's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiitya29&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Aditya's Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adiitya29&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=adiitya29&theme=tokyonight&hide_border=true"
+    alt="Aditya's GitHub Streak"
+  />
 </p>
 
 ---
@@ -99,7 +110,10 @@ A full-stack URL shortening application focused on creating short links and trac
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adiitya29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=adiitya29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
