@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student and aspiring **Software Developer** passionate about building scalable applications and solving real-world problems.
+I'm a Computer Science Engineering Graduate and aspiring **Software Developer** passionate about building scalable applications and solving real-world problems.
 
 - 🔭 Currently working on **[URL Shortener with Analytics](https://github.com/adiitya29/URL-Shortener-with-Analytics)**
 - 🌱 Currently learning **Spring Boot & Next.js**
