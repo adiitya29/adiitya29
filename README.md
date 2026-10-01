@@ -26,7 +26,7 @@
 
 I'm a Computer Science Engineering Graduate and aspiring **Software Developer** passionate about building scalable applications and solving real-world problems.
 
-- 🔭 Currently working on **[AI Supply Chain Digital Twin & Disruption Simulator]**
+- 🔭 Currently working on **[AI Supply Chain Digital Twin & Disruption Simulator](https://github.com/adiitya29/AI-Supply-Chain-Digital-Twin-Disruption-Simulator)**
 - 🌱 Currently learning **Spring Boot & AWS**
 - 💻 Interested in **Backend Development, Full Stack Development & System Design**
 - 🧠 Practicing **Data Structures & Algorithms**
