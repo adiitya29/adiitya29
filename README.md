@@ -72,14 +72,14 @@ I'm a Computer Science Engineering Graduate and aspiring **Software Developer** 
 
 ## 🚀 Featured Project
 
-### 🔗 URL Shortener with Analytics
+### LLM Gateway
 
-A full-stack URL shortening application focused on creating short links and tracking their analytics.
+High Performance OpenAI API compatible Backend gateway for caching, automatic failovers, rate limiting and observability.
 
 **Tech Stack:**  
-`Core Java` `Spring Boot` `Redis` `PostgreSQL` `REST API` `Spring Data JPA` `Hibernate` `Bucket4j` `MaxMind GeoIP` `Docker` `JUnit 5` `Mockito`
+`Core Java` `Spring Boot` `Rest API` `Redis` `PostgreSQL` `Bucket4j` `Docker` `Groq API`
 
-🔗 **[View Project →](https://github.com/adiitya29/URL-Shortener-with-Analytics)**
+🔗 **[View Project →](https://github.com/adiitya29/LLM-Gateway)**
 
 ---
 
